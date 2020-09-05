@@ -1,0 +1,7 @@
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe.config
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio4\Exercicio4\bin\Debug\Exercicio4.pdb
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csproj.CoreCompileInputs.cache
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio4\Exercicio4\obj\Debug\Exercicio4.exe
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio4\Exercicio4\obj\Debug\Exercicio4.pdb
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\Developer\Languages\C#\Exercises\Exercicio7\Exercicio7\bin\Debug\Exercicio7.exe.config
+E:\Developer\Languages\C#\Exercises\Exercicio7\Exercicio7\bin\Debug\Exercicio7.exe
+E:\Developer\Languages\C#\Exercises\Exercicio7\Exercicio7\bin\Debug\Exercicio7.pdb
+E:\Developer\Languages\C#\Exercises\Exercicio7\Exercicio7\obj\Debug\Exercicio7.csprojAssemblyReference.cache
+E:\Developer\Languages\C#\Exercises\Exercicio7\Exercicio7\obj\Debug\Exercicio7.csproj.CoreCompileInputs.cache
+E:\Developer\Languages\C#\Exercises\Exercicio7\Exercicio7\obj\Debug\Exercicio7.exe
+E:\Developer\Languages\C#\Exercises\Exercicio7\Exercicio7\obj\Debug\Exercicio7.pdb

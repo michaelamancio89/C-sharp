@@ -1,0 +1,7 @@
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe.config
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio3\Exercicio3\bin\Debug\Exercicio3.pdb
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csprojAssemblyReference.cache
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csproj.CoreCompileInputs.cache
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio3\Exercicio3\obj\Debug\Exercicio3.exe
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio3\Exercicio3\obj\Debug\Exercicio3.pdb

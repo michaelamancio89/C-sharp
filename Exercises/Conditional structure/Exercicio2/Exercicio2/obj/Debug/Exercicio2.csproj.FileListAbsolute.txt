@@ -1,0 +1,6 @@
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb

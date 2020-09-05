@@ -1,0 +1,7 @@
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio8\Exercicio8\bin\Debug\Exercicio8.exe.config
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio8\Exercicio8\bin\Debug\Exercicio8.exe
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio8\Exercicio8\bin\Debug\Exercicio8.pdb
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio8\Exercicio8\obj\Debug\Exercicio8.csprojAssemblyReference.cache
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio8\Exercicio8\obj\Debug\Exercicio8.csproj.CoreCompileInputs.cache
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio8\Exercicio8\obj\Debug\Exercicio8.exe
+E:\Developer\Languages\C#\Exercises\Conditional structure\Exercicio8\Exercicio8\obj\Debug\Exercicio8.pdb
